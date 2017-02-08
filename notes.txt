@@ -1,0 +1,8 @@
+-Note spell-checker scope
+-Note on user-inputted data tags
+-make introductory sections succint
+-Focus more on word analysis, language model, and predict
+-Focus less on regex, focus less on introductory material
+    ---Don't explain the entirely how Regex works, just handwave that
+-Get to word analysis in 30 minutes
+-Log(rank)-Density : This should be a side note
