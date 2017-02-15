@@ -6,3 +6,24 @@
     ---Don't explain the entirely how Regex works, just handwave that
 -Get to word analysis in 30 minutes
 -Log(rank)-Density : This should be a side note
+-Number cuts in regular expression
+-apostrophe cuts
+-Note that the data is lowercase in metadata analysis
+-Presentation Quality
+    --Explain things better
+    --Spend more time explaining the structure of the packages
+    --Go slower, elaborate more
+    --Explain what a feature is, don't assume that people know them
+    --Visualizing more of the functions (intermediaries)
+    --Make things clearer in definition
+    --Taking breaks and asking for questions
+    --Better transitions, especially from micro- to macro-analysis
+    --Better defining of terms: and keep restating those terms
+-Content
+    --15-150 stuff is complicated, explain that more thoroughly
+    --explain more time on the packages
+    --Cut down stuff for time
+        ---Think about more time on word analysis and prediction pipeline,
+            some time on summary statistics, less time on regex and pattern
+            matching
+    --Should I emphasize modeling? Or should I not?
