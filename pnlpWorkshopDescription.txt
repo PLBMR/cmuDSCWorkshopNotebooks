@@ -1,0 +1,11 @@
+pnlpWorkshopDescription
+Last Updated: 2/15/2017 10:27 AM EST
+
+The field of natural language processing (NLP) has become a cornerstone of the
+toolbelt used by modern data scientists. In this workshop, we plan to
+introduce the practical components of NLP to give students the ability to
+mine text for data analysis. Students will learn to process semi-structured 
+text, build summary statistics on a collection of documents, develop models for
+language generation, and create prediction pipelines using OkCupid dating
+profiles. No background in data science is required, although a familiarity with
+Python is preferred.
