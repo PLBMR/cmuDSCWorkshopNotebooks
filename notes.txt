@@ -27,3 +27,17 @@
             some time on summary statistics, less time on regex and pattern
             matching
     --Should I emphasize modeling? Or should I not?
+1/20/2017 3:09 PM
+-walk through account set up quicker
+-express sets and dictionary in the note to 15-112 students
+-Add an example of a simple word count dictionary
+-Presentation
+    --Later part: have a correct classification shown
+    --Timewise: 1 hour 10 minutes
+    --Build out a survey
+    --Interactiveness: talk through code more
+    --King Kong Pizzas -> order dem!
+    --Add 5 second transitions between sections
+-Content:
+    --Maybe add some information for installing Jupyter locally
+    --Confusion Matrices, type-token plot in the reference materials
